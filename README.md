@@ -1,5 +1,5 @@
-# WordsUtils  
-WordUtils is a website made with an amazing web framework Django. Enter your text and choose a option-  
+# TextUtils.in  
+TextUtils.in is a website made with an amazing web framework Django. Enter your text and choose a option-  
 Remove Punctuation  
 UPPER CASE  
 New line remover  
