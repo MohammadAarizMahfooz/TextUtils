@@ -8,5 +8,5 @@ Number of charector counter
 And it will do that with your text.  
   
 Requirements-  
-Python 3
+Python 3  
 Django 3
